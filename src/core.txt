@@ -1,2 +1,3 @@
 An introduction to the J programming language that gets to the point.
 # match the style used in the rest of the module
+# guard against empty input
