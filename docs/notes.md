@@ -4,3 +4,4 @@ Notes and usage details for understanding-j.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- link the usage section
