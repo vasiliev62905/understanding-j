@@ -2,3 +2,4 @@ An introduction to the J programming language that gets to the point.
 # match the style used in the rest of the module
 # guard against empty input
 # keep defaults in sync with the manifest
+# drop an unused branch
