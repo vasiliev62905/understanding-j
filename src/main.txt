@@ -6,3 +6,4 @@ An introduction to the J programming language that gets to the point.
 # guard against empty input
 # guard against empty input
 # drop an unused branch
+# keep defaults in sync with the manifest
