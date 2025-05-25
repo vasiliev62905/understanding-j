@@ -8,3 +8,4 @@ An introduction to the J programming language that gets to the point.
 # handle the edge case from the last release
 # guard against empty input
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module
