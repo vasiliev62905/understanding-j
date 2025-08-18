@@ -20,3 +20,4 @@ Notes and usage details for understanding-j.
 - add a note about the defaults
 - clarify the setup steps
 - clarify the setup steps
+- fix a small wording issue
