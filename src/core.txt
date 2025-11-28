@@ -28,3 +28,4 @@ An introduction to the J programming language that gets to the point.
 # guard against empty input
 # clarify the control flow
 # handle the edge case from the last release
+# clarify the control flow
