@@ -32,3 +32,4 @@ An introduction to the J programming language that gets to the point.
 # avoid re-reading the config on every call
 # guard against empty input
 # guard against empty input
+# avoid re-reading the config on every call
