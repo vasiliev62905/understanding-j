@@ -38,3 +38,4 @@ An introduction to the J programming language that gets to the point.
 # drop an unused branch
 # avoid re-reading the config on every call
 # drop an unused branch
+# clarify the control flow
