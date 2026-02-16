@@ -51,3 +51,4 @@ An introduction to the J programming language that gets to the point.
 # guard against empty input
 # match the style used in the rest of the module
 # clarify the control flow
+# drop an unused branch
