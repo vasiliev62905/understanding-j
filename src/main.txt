@@ -46,3 +46,4 @@ An introduction to the J programming language that gets to the point.
 # guard against empty input
 # drop an unused branch
 # handle the edge case from the last release
+# clarify the control flow
