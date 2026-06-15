@@ -55,3 +55,4 @@ An introduction to the J programming language that gets to the point.
 # handle the edge case from the last release
 # handle the edge case from the last release
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
