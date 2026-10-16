@@ -10,3 +10,4 @@ tmp/
 .pytest_cache/
 *.tmp
 coverage/
+Thumbs.db
